@@ -1,0 +1,419 @@
+questionTitle,slug,difficulty,tags
+Inverse of a 2x2 matrix,https://machinehack.com/practices/printing-the-inverse-of-a-2x2-matrix-using-scipy-edf80.html,Hard,"SciPy,NumPy,Matrix,Array"
+Inverse of a 3x3 matrix,https://machinehack.com/practices/printing-the-inverse-of-a-3x3-matrix-using-scipy-32e1d.html,Hard,"SciPy,NumPy,Matrix,Array"
+Determinant of a 2x2 matrix,https://machinehack.com/practices/printing-the-determinant-of-a-2x2-matrix-using-scipy-d1dc7.html,Hard,"SciPy,NumPy,Array,Matrix"
+Determinant of a 3x3 matrix,https://machinehack.com/practices/printing-the-determinant-of-a-3x3-matrix-using-scipy-9b239.html,Hard,"SciPy,NumPy,Array,Matrix"
+Norm of a matrix,https://machinehack.com/practices/printing-the-norm-of-a-matrix-976c6.html,Hard,"SciPy,NumPy,Matrix,Array"
+Factorial of a list,https://machinehack.com/practices/printing-the-factorial-of-a-list-9c71b.html,Hard,"SciPy,NumPy,List"
+Calculate the gravitational force,https://machinehack.com/practices/calculating-the-gravitational-force-d0a36.html,Hard,"NumPy,SciPy"
+Area of the circle,https://machinehack.com/practices/calculating-the-area-of-the-circle-6e5e1.html,Hard,"SciPy,Function"
+Cubic root,https://machinehack.com/practices/printing-the-cube-root-6f33d.html,Hard,"SciPy,Loops,If-Else"
+Log Sum Exponential of a list,https://machinehack.com/practices/printing-the-log-sum-exponential-of-a-list-0f4fa.html,Hard,"Function,SciPy,Loops,If-Else,List"
+Reverse a NumPy array,https://machinehack.com/practices/reverse-a-numpy-array-fc505.html,Hard,"NumPy,Array"
+All combinations of two Numpy arrays,https://machinehack.com/practices/printing-all-combinations-of-two-numpy-arrays-a28ab.html,Hard,"NumPy,Array"
+2D array to a 1D array,https://machinehack.com/practices/flattening-a-2d-array-into-a-1d-numpy-array-c689a.html,Hard,"NumPy,List,Array"
+Conversion of a matrix into a list,https://machinehack.com/practices/conversion-of-a-matrix-into-a-list-6e85d.html,Hard,"NumPy,Matrix"
+Addition of Matrices using NumPy,https://machinehack.com/practices/addition-of-matrices-using-numpy-0d26b.html,Hard,"NumPy,Matrix"
+Multiplication of two matrices,https://machinehack.com/practices/multiplication-of-two-matrices-30355.html,Hard,"NumPy,Matrix"
+Inversion of a matrix using NumPy,https://machinehack.com/practices/inversion-of-a-matrix-using-numpy-48826.html,Hard,"NumPy,Matrix"
+"Replace array elements 
+",https://machinehack.com/practices/replacing-array-elements-145b0.html,Hard,"NumPy,Array"
+Replacing the diagonal values of a matrix,https://machinehack.com/practices/replacing-the-diagonal-values-of-a-matrix-4880d.html,Hard,"NumPy,Matrix"
+Indices of elements equal to zero in an array,https://machinehack.com/practices/printing-the-indices-of-elements-equal-to-zero-in-an-array-b92f7.html,Hard,"NumPy,Array"
+ Remove columns containing missing values,https://machinehack.com/practices/removing-columns-containing-nan-values-ae1b5.html,Hard,"NumPy,Array"
+All the negative values to zero,https://machinehack.com/practices/replacing-all-the-negative-values-with-zero-in-an-array-049dc.html,Hard,"NumPy,Array"
+ Replace the missing value with average,https://machinehack.com/practices/replacing-the-nan-value-with-the-average-of-columns-2161b.html,Hard,"NumPy,Array"
+Eigenvectors of a 3D array,https://machinehack.com/practices/printing-the-eigenvectors-of-a-3d-array-ef004.html,Hard,"NumPy,Array"
+Repetition of all elements of an array of strings,https://machinehack.com/practices/repetition-of-all-elements-of-an-array-of-strings-2206c.html,Hard,"NumPy,String,Array"
+ Stack two arrays index by index,https://machinehack.com/practices/stacking-two-arrays-index-by-index-64121.html,Hard,"NumPy,Array"
+Difference between vector norm and condition number ,https://machinehack.com/practices/printing-the-difference-between-vector-norm-and-condition-number-013d8.html,Hard,"NumPy,Matrix"
+Euclidean distance using NumPy,https://machinehack.com/practices/printing-the-euclidean-distance-using-numpy-589d4.html,Hard,NumPy
+Harmonic mean,https://machinehack.com/practices/calculating-the-harmonic-mean-15b0d.html,Hard,"Function,Array,Statistics"
+Calculate the mean,https://machinehack.com/practices/calculating-the-average-9100c.html,Hard,"Array,Function,Statistics"
+Calculate the Median,https://machinehack.com/practices/calculating-the-median-98bb7.html,Hard,"Array,Function,Statistics"
+Calculate the mode,https://machinehack.com/practices/calculating-the-mode-8b647.html,Hard,"Statistics,Function,Array"
+Median of a grouped continuous data,https://machinehack.com/practices/calculating-the-median-of-a-grouped-continuous-data-84f65.html,Hard,"Statistics,Array,Function"
+The high median,https://machinehack.com/practices/printing-the-high-median-56657.html,Hard,"Statistics,Function"
+Low median,https://machinehack.com/practices/printing-the-low-median-b035c.html,Hard,"Statistics,Function"
+Standard deviation of a population,https://machinehack.com/practices/calculating-the-standard-deviation-from-a-population-aa189.html,Hard,"Statistics,Function"
+Standard deviation of a sample,https://machinehack.com/practices/calculating-the-standard-deviation-from-a-sample-a50eb.html,Hard,"Statistics,Function"
+"Population variance 
+",https://machinehack.com/practices/calculating-the-population-variance-052e6.html,Hard,"Statistics,Function"
+Sample variance,https://machinehack.com/practices/calculating-the-variance-from-a-sample-420fb.html,Hard,"Statistics,Function"
+The N-th quantile,https://machinehack.com/practices/calculating-the-n-quantile-1728a.html,Hard,"Statistics,Function"
+The N-th percentile ,https://machinehack.com/practices/calculating-the-n-percentile-010e5.html,Hard,"Statistics,Function"
+Interquartile range,https://machinehack.com/practices/calculating-the-interquartile-range-35a23.html,Hard,"Statistics,Function"
+Outliers in a dataset,https://machinehack.com/practices/detecting-outliers-in-a-dataset-5bb3d.html,Hard,"Statistics,Function,Array"
+Standard skewness estimator,https://machinehack.com/practices/calculating-the-standard-skewness-estimator-c34a1.html,Hard,"Statsmodels,Statistics,Function"
+Skewness estimator based on quartiles,https://machinehack.com/practices/calculating-the-skewness-estimator-based-on-quartiles-880ad.html,Hard,"Statsmodels,Statistics,Function,Array"
+Skewness estimator standardized by absolute deviation,https://machinehack.com/practices/calculating-the-skewness-estimator-standardized-by-absolute-deviation-eb456.html,Hard,"Statsmodels,Statistics,Function"
+Skewness estimator standardized by the standard deviation,https://machinehack.com/practices/calculating-the-skewness-estimator-standardized-by-the-standard-deviation-0691c.html,Hard,"Statsmodels,Statistics,Function,Array"
+Standard kurtosis estimator,https://machinehack.com/practices/calculating-the-standard-kurtosis-estimator-0b5c9.html,Hard,"Statsmodels,Statistics"
+Kurtosis estimator based on octiles,https://machinehack.com/practices/calculating-the-kurtosis-estimator-based-on-octiles-e0302.html,Hard,"Statsmodels,Statistics,Array,Function"
+Kurtosis estimators based on exceedance expectations,https://machinehack.com/practices/calculating-the-kurtosis-estimators-based-on-exceedance-expectations-f71e0.html,Hard,"Statsmodels,Statistics,Function"
+Kurtosis measure based on the spread between high and low quantiles,https://machinehack.com/practices/calculating-the-kurtosis-measure-based-on-the-spread-between-high-and-low-quantiles-13422.html,Hard,"Statsmodels,Statistics,Function"
+Jarque-Bera test statistic value,https://machinehack.com/practices/calculating-the-jarque-bera-test-statistic-value-7fe64.html,Hard,"Statsmodels,Statistics,Function"
+p-value of the Jarque-Bera test statistic,https://machinehack.com/practices/calculating-the-pvalue-of-the-jarque-bera-test-statistic-efa7b.html,Hard,"Statsmodels,Statistics,Function"
+Skewness and kurtosis by the Jarque-Bera normality test,https://machinehack.com/practices/calculating-the-skewness-and-kurtosis-by-the-jarque-bera-normality-test-c1be2.html,Hard,"Statsmodels,Statistics,Function"
+Chi-square using the omnibus test for normality,https://machinehack.com/practices/calculating-the-chi-2-score-using-the-omnibus-test-for-normality-5d27a.html,Hard,"Statsmodels,Statistics,Function,Array"
+Two-tailed probability using the omnibus test for normality,https://machinehack.com/practices/calculating-the-two-tail-probability-using-the-omnibus-test-for-normality-56c17.html,Hard,"Statsmodels,Statistics,Function,Array"
+Medcouple measure of skewness,https://machinehack.com/practices/calculating-the-medcouple-robust-measure-of-skewness-bb936.html,Hard,"Statsmodels,Statistics,Array,Function"
+Durbin-Waston statistic,https://machinehack.com/practices/calculating-the-durbin-waston-statistic-d2c5f.html,Hard,"Statsmodels,Statistics,Function"
+Descriptive statistics,https://machinehack.com/practices/computing-the-descriptive-statistics-58790.html,Hard,"Statsmodels,Statistics,Array,Function"
+Geometric average,https://machinehack.com/practices/computing-the-geometric-average-92f96.html,Hard,"Statsmodels,Statistics,Array,Function"
+The nth moment,https://machinehack.com/practices/calculating-the-nth-moment-a9285.html,Hard,"Statsmodels,Statistics,Array,Function"
+The nth k-statistics,https://machinehack.com/practices/calculating-the-nth-k-statistics-ad71e.html,Hard,"Statsmodels,Statistics,Array,Function"
+Variance of the k-statistics,https://machinehack.com/practices/calculating-the-variance-of-the-k-statistics-496a0.html,Hard,"Statsmodels,Statistics,Array,Function"
+Trimmed mean,https://machinehack.com/practices/calculating-the-trimmed-mean-34014.html,Hard,"Statsmodels,Statistics,Array,Function"
+Trimmed variance,https://machinehack.com/practices/calculating-the-trimmed-variance-264fb.html,Hard,"Statsmodels,Statistics,Array,Function"
+Trimmed minimum,https://machinehack.com/practices/calculating-the-trimmed-minimum-12a40.html,Hard,"Statsmodels,Statistics,Array,Function"
+Trimmed maximum,https://machinehack.com/practices/calculating-the-trimmed-maximum-adad7.html,Hard,"Statsmodels,Statistics,Array,Function"
+Trimmed sample standard deviation ,https://machinehack.com/practices/calculating-the-trimmed-sample-standard-deviation-a7cf5.html,Hard,"Statsmodels,Statistics,Array,Function"
+Trimmed standard error of the mean,https://machinehack.com/practices/calculating-the-trimmed-standard-error-of-the-mean-2ba51.html,Hard,"Statsmodels,Statistics,Array,Function"
+Coefficient of variation,https://machinehack.com/practices/calculating-the-coefficient-of-variation-1497c.html,Hard,"Statsmodels,Statistics,Array,Function"
+Geometric standard deviation,https://machinehack.com/practices/calculating-the-geometric-standard-deviation-9fdaf.html,Hard,"Statsmodels,Statistics,Array,Function"
+Standard error of the mean,https://machinehack.com/practices/calculating-the-standard-error-of-the-mean-e691e.html,Hard,"Statsmodels,Statistics,Array,Function"
+Entropy of a distribution,https://machinehack.com/practices/calculating-the-entropy-of-a-distribution-71d4d.html,Hard,"Statsmodels,Statistics,Array,Function"
+Differential entropy of a distribution,https://machinehack.com/practices/calculating-the-differential-entropy-of-a-distribution-d5411.html,Hard,"Statsmodels,Statistics,SciPy,Array"
+Median absolute deviation,https://machinehack.com/practices/calculating-the-median-absolute-deviation-c04f7.html,Hard,"Statistics,SciPy,Array,Function"
+Repeats and repeat count ,https://machinehack.com/practices/calculating-the-repeats-and-repeat-count-039a2.html,Hard,"SciPy,Array,Function,Statistics"
+Cumulative frequency,https://machinehack.com/practices/calculating-the-cumulative-frequency-74205.html,Hard,"Statistics,Function,Array,SciPy"
+Item frequencies in an array,https://machinehack.com/practices/calculating-the-item-frequencies-d0dbb.html,Hard,"Statistics,SciPy,Array,Function"
+Score at a given percentile,https://machinehack.com/practices/calculating-the-score-at-a-given-percentile-e555a.html,Hard,"Statistics,SciPy,Array"
+One-Way ANOVA test for binary population groups,https://machinehack.com/practices/one-way-anova-test-for-binary-population-groups-ac027.html,Hard,"Statistics,SciPy,Array,Function"
+One-Way ANOVA test for multiple population groups,https://machinehack.com/practices/one-way-anova-test-for-multiple-population-groups-fa134.html,Hard,"Statistics,Array,Function,SciPy"
+T-test for two independent samples,https://machinehack.com/practices/calculating-the-t-test-for-two-independent-samples-6a670.html,Hard,"Statistics,SciPy,Array"
+Normality test ,https://machinehack.com/practices/performing-normality-test-e3cae.html,Hard,"Statistics,Array,Function,SciPy"
+Kurtosis test ,https://machinehack.com/practices/performing-kurtosis-test-4c58a.html,Hard,"Statistics,Function,Array,SciPy"
+Test of skewness ,https://machinehack.com/practices/performing-skewness-test-5e02f.html,Hard,"SciPy,Statistics,Array,Function"
+Mood’s two-sample test for equal scale parameters,https://machinehack.com/practices/performing-moods-two-sample-test-for-equal-scale-parameters-a5fc3.html,Hard,"Statistics,SciPy,Array,Function"
+Mood’s median test,https://machinehack.com/practices/performing-moods-median-test-d5c11.html,Hard,"Statistics,SciPy,Array,Function"
+One-way chi-square test,https://machinehack.com/practices/performing-a-one-way-chi-square-test-9664a.html,Hard,"Statistics,SciPy,Array,Function"
+T-test on two related samples,https://machinehack.com/practices/performing-a-t-test-on-two-related-samples-4937d.html,Hard,"Statistics,Array,Function,SciPy"
+z-score,https://machinehack.com/practices/calculating-the-z-scores-d7314.html,Hard,"Statistics,SciPy,Array,Function"
+Covariance matrix for binary variables,https://machinehack.com/practices/calculating-the-covariance-matrix-for-binary-variables-4fc28.html,Hard,"SciPy,NumPy,Array,Function"
+Pearson’s correlation coefficient,https://machinehack.com/practices/calculating-the-pearsons-correlation-coefficient-8b049.html,Hard,"Statistics,SciPy,Function,Array"
+Spearman’s correlation coefficient,https://machinehack.com/practices/calculating-the-spearmans-correlation-coefficient-3bc09.html,Hard,"Statistics,SciPy,Function,Array"
+Alexander-Govern test ,https://machinehack.com/practices/performing-the-alexander-govern-test-a861a.html,Hard,"Statistics,SciPy,Array,Function"
+Correlation measure for ordinal data,https://machinehack.com/practices/calculating-the-correlation-measure-for-ordinal-data-c1298.html,Hard,"Statistics,SciPy,Array,Function"
+Somer’s D for two ordinal association ,https://machinehack.com/practices/calculating-the-somers-d-for-two-ordinal-association-51efe.html,Hard,"Statistics,SciPy,Array,Function"
+T-test for the mean of one group of scores,https://machinehack.com/practices/performing-t-test-for-the-mean-of-one-group-of-scores-42f3c.html,Hard,"Statistics,Array,Function,SciPy"
+Test for homogeneity of variance,https://machinehack.com/practices/test-for-homogeneity-of-variance-f833e.html,Hard,"Statistics,SciPy,Array,Function"
+Standard error of the trimmed mean ,https://machinehack.com/practices/calculating-the-standard-error-of-the-trimmed-mean-80825.html,Hard,"Statistics,SciPy,Function,Array"
+"Trim an array by masking a certain proportion
+",https://machinehack.com/practices/trimming-an-array-by-masking-a-certain-proportion-24e74.html,Hard,"Statistics,Array,SciPy,Function"
+Trim the data by masking values from the left tail,https://machinehack.com/practices/trimming-the-data-by-masking-values-from-the-left-tail-97c1e.html,Hard,"Statistics,SciPy,Function,Array"
+Trim the data by masking values from the right tail,https://machinehack.com/practices/trimming-the-data-by-masking-values-from-the-right-tail-93cc9.html,Hard,"Statsmodels,SciPy,Function,Array"
+Trim the smallest and largest data values,https://machinehack.com/practices/trimming-the-smallest-and-largest-data-values-90148.html,Hard,"Statistics,SciPy,Function,Array"
+Windorized version of the array ,https://machinehack.com/practices/printing-a-windorized-version-of-the-array-3af76.html,Hard,"Statistics,SciPy,Function,Array"
+Relative z-score ,https://machinehack.com/practices/calculating-the-relative-z-score-fd503.html,Hard,"Statistics,Array,SciPy,Function"
+Number of tied values in a sequence ,https://machinehack.com/practices/calculating-the-number-of-tied-values-in-a-sequence-58a6c.html,Hard,"Statistics,SciPy,Array,Function,Dictionary"
+Median of two independent groups,https://machinehack.com/practices/comparing-the-median-of-two-independent-groups-8ada7.html,Hard,"Statistics,SciPy,Function,Array"
+Alpha-level confidence interval,https://machinehack.com/practices/printing-the-alpha-level-confidence-interval-8163b.html,Hard,"Statistics,SciPy,Function,Array"
+Standard error of quantiles of the data,https://machinehack.com/practices/printing-the-standard-error-of-quantiles-of-the-data-4fb26.html,Hard,"Statistics,SciPy,Array,Function"
+Lower boundaries of the alpha confidence interval,https://machinehack.com/practices/computing-the-lower-boundaries-of-the-alpha-confidence-interval-51e1b.html,Hard,"Statistics,SciPy,Function,Array"
+Upper boundaries of the alpha confidence interval ,https://machinehack.com/practices/computing-the-upper-boundaries-of-the-alpha-confidence-interval-a55c3.html,Hard,"Statistics,SciPy,Array,Function"
+"Rosenblatt’s shifted histograms estimator 
+",https://machinehack.com/practices/evaluating-rosenblatts-shifted-histograms-estimator-3f784.html,Hard,"Statistics,SciPy,Array,Function"
+Harrell-Davis median ,https://machinehack.com/practices/printing-the-harrell-davis-median-90970.html,Hard,"SciPy,Statistics,Array,Function"
+Harrell-Davis quantile estimates ,https://machinehack.com/practices/printing-the-harrell-davis-quantile-estimates-7a6f4.html,Hard,"Statistics,Array,Function,SciPy"
+Standard error of Harrell-Davis quantile estimates ,https://machinehack.com/practices/computing-the-standard-error-of-harrell-davis-quantile-estimates-7d597.html,Hard,"SciPy,Statistics,Array,Function"
+Estimate the lower and upper quartiles,https://machinehack.com/practices/estimating-the-lower-and-upper-quartiles-327a8.html,Hard,"Statistics,SciPy,Function,Array"
+Bayesian confidence interval,https://machinehack.com/practices/computing-the-bayesian-confidence-interval-5f55b.html,Hard,"Statistics,Array,Function,SciPy"
+Trim an array,https://machinehack.com/practices/trimming-an-array-74109.html,Hard,"Statistics,SciPy,Array,Function"
+Range of a distribution,https://machinehack.com/practices/calculating-the-range-197d2.html,Hard,"Statistics,SciPy,Function"
+Expected value of a distribution,https://machinehack.com/practices/calculating-the-expected-value-8039c.html,Hard,"Statistics,SciPy,Array,Function"
+Probability of drawn colored balls ,https://machinehack.com/practices/calculating-the-probability-of-n-number-of-different-colored-balls-bb70d.html,Hard,"Statistics,SciPy,Array,Function"
+Z-score for the significance,https://machinehack.com/practices/calculating-the-z-score-of-different-confidence-intervals-f21ee.html,Hard,"Statistics,SciPy,Function"
+Calculate the t-score,https://machinehack.com/practices/calculating-the-t-score-60058.html,Hard,"Statistics,SciPy,Function"
+Probability from a normal distribution,https://machinehack.com/practices/calculating-the-probability-of-normal-distribution-9290d.html,Hard,"Statistics,SciPy,Function"
+Hypothesis testing ,https://machinehack.com/practices/calculating-the-test-statistics-value-by-performing-hypothesis-testing-123eb.html,Hard,"Statistics,Function"
+p-value based on the test statistic,https://machinehack.com/practices/calculating-the-p-value-based-on-the-test-statistic-9eb3a.html,Hard,"Statistics,Function"
+Confidence interval for a given population and standard deviation,https://machinehack.com/practices/calculating-the-interval-for-95-confidence-for-a-given-population-standard-deviation-aa9bd.html,Hard,"Statistics,Function"
+Confidence interval for a given sample and standard deviation,https://machinehack.com/practices/calculating-the-interval-for-90-confidence-for-a-given-sample-standard-deviation-0b884.html,Hard,"Statistics,SciPy,Function"
+Bin numeric elements into discrete intervals,https://machinehack.com/practices/binning-values-into-discrete-intervals-f0c0c.html,Hard,"Pandas,Array,Function,Sorting"
+Bin values into discrete intervals based on the number of quantiles ,https://machinehack.com/practices/binning-values-into-discrete-intervals-based-on-the-number-of-quantiles-3ed04.html,Hard,"Pandas,Array,Function"
+Concatenate pandas objects,https://machinehack.com/practices/concatenating-objects-along-a-particular-axis-4cb50.html,Hard,"Pandas,Array,Function,Sorting"
+Array into dummy variables ,https://machinehack.com/practices/conversion-of-an-array-into-dummy-variables-54e5a.html,Hard,"Pandas,Dictionary,Function"
+String into dummy variables ,https://machinehack.com/practices/conversion-of-a-string-into-dummy-variables-32c2c.html,Hard,"Pandas,String,Function"
+Factorization of a sequence,https://machinehack.com/practices/factorization-of-a-sequence-802de.html,Hard,"Pandas,Function,Array"
+Unique elements based on a hash table,https://machinehack.com/practices/printing-the-unique-values-37c4c.html,Hard,"Pandas,Array,Sorting,Function"
+Date from multiple keys of a dictionary,https://machinehack.com/practices/printing-a-date-from-multiple-keys-of-a-dictionary-0b4ac.html,Hard,"Pandas,Function,Dictionary"
+Unix epoch time into a Datetime object ,https://machinehack.com/practices/converting-a-unix-epoch-time-into-a-date-time-object-d0813.html,Hard,"Pandas,Function"
+String to a Pandas datetime object ,https://machinehack.com/practices/converting-a-string-to-a-date-557aa.html,Hard,"Pandas,Function,String"
+Replace missing values with the mode,https://machinehack.com/practices/replacing-nan-values-with-the-mode-for-a-categorical-column-3cb00.html,Hard,"Pandas,Dictionary,Function,DataFrame"
+New columns ,https://machinehack.com/practices/printing-a-new-column-based-on-a-condition-b2a2f.html,Hard,"Pandas,List,DataFrame"
+Replace missing values with mean,https://machinehack.com/practices/replacing-nan-values-with-mean-in-a-dataframe-17379.html,Hard,"Pandas,Dictionary,DataFrame"
+Pandas series from a list,https://machinehack.com/practices/printing-the-pandas-series-from-a-list-4037e.html,Hard,"Pandas,List,Function,DataFrame"
+Rename dataframe columns,https://machinehack.com/practices/renaming-of-columns-in-a-data-frame-c9344.html,Hard,"Pandas,Dictionary,DataFrame"
+Split the dataframe column,https://machinehack.com/practices/splitting-a-text-column-into-two-columns-37a09.html,Hard,"Pandas,Dictionary,Function,DataFrame"
+Area of a rectangle,https://machinehack.com/practices/printing-the-area-of-a-rectangle-based-on-given-parameters-cae92.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Column difference,https://machinehack.com/practices/printing-the-difference-between-two-columns-0fc13.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+ Drop columns,https://machinehack.com/practices/dropping-columns-in-a-dataframe-8c339.html,Hard,"DataFrame,Pandas,Function,Dictionary"
+Column as index of dataframe,https://machinehack.com/practices/converting-a-column-values-into-indexes-8c9aa.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Dataframe from a list of tuples,https://machinehack.com/practices/creating-a-pandas-data-frame-using-a-list-of-tuples-09157.html,Hard,"DataFrame,Pandas,List,Function"
+Re-indexing without removing the default index ,https://machinehack.com/practices/creating-a-new-index-without-removing-the-default-index-15db1.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+"Create a DataFrame based on given indexes 
+",https://machinehack.com/practices/create-a-dataframe-with-defined-indexes-55f27.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Dataframe from a 1-dimensional list,https://machinehack.com/practices/creating-a-data-frame-with-a-1-dimensional-list-db55e.html,Hard,"DataFrame,Pandas,List,Function"
+Dataframe with a 2D list ,https://machinehack.com/practices/creating-a-data-frame-with-a-2d-list-77899.html,Hard,"DataFrame,Pandas,List,Function"
+Transpose of a dataframe ,https://machinehack.com/practices/transposing-a-data-frame-02024.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Reverse the dataframe rows,https://machinehack.com/practices/reversing-rows-in-a-pandas-dataframe-c967f.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Filter a dataframe based on index,https://machinehack.com/practices/filtering-data-frame-based-on-index-e39a9.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Merge Data Frame along the column,https://machinehack.com/practices/merging-data-frame-based-on-condition-f58d3.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+" Element at the last index of a dataframe 
+",https://machinehack.com/practices/accessing-index-of-last-element-in-a-data-frame-62cdf.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Replace special characters in a dataframe ,https://machinehack.com/practices/replacing-a-special-character-from-strings-in-a-data-frame-711bf.html,Hard,"Pandas,DataFrame,Dictionary,Function"
+Alter elements of a dataframe,https://machinehack.com/practices/replacing-a-character-from-strings-in-the-data-frame-feeaa.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Select from a dataframe,https://machinehack.com/practices/filtering-the-data-frame-based-on-a-limit-condition-537fa.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Extract from a dataframe using boolean indexing with mask variable,https://machinehack.com/practices/splitting-the-data-frame-using-boolean-indexing-with-mask-variable-386d3.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+ Extract from a dataframe using boolean indexing with inverted mask variable,https://machinehack.com/practices/splitting-the-data-frame-using-boolean-indexing-with-inverted-mask-variable-c41b1.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Create a dataframe by grouping the rows,https://machinehack.com/practices/creating-a-data-frame-by-grouping-the-rows-29e02.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Grouping the dataframe rows,https://machinehack.com/practices/creating-a-data-frame-by-grouping-the-rows-based-on-numerical-condition-25692.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Difference between dataframe rows,https://machinehack.com/practices/finding-the-difference-between-two-consecutive-data-frame-rows-f7ca6.html,Hard,"DataFrame,Pandas,List,Function"
+Difference between two consecutive rows with a user-defined period,https://machinehack.com/practices/finding-the-difference-between-two-consecutive-rows-with-a-user-defined-period-d0957.html,Hard,"DataFrame,Pandas,List,Function"
+Duplicated rows in a dataframe,https://machinehack.com/practices/printing-the-duplicated-rows-in-a-data-frame-50330.html,Hard,"DataFrame,Pandas,List,Function"
+" Drop the duplicate values from the dataframe
+",https://machinehack.com/practices/dropping-the-duplicated-values-from-the-data-frame-b3cd7.html,Hard,"DataFrame,Pandas,List,Function"
+Column names in a dataframe ,https://machinehack.com/practices/printing-the-column-names-in-a-data-frame-5ff2c.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+ Multiplication of two dataframes ,https://machinehack.com/practices/multiplication-of-two-data-frames-96080.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Missing values in a dataframe,https://machinehack.com/practices/handling-the-missing-values-in-a-data-frame-3bcaa.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Median over the vertical axis in a dataframe ,https://machinehack.com/practices/computing-the-median-over-the-vertical-axis-in-a-data-frame-401d2.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Median over the horizontal axis in a dataframe,https://machinehack.com/practices/computing-the-median-over-the-horizontal-axis-in-a-data-frame-58fb1.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Division of the data frame using a series ,https://machinehack.com/practices/division-of-the-data-frame-using-a-series-4b2d7.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+ Division of a data frame using another data frame,https://machinehack.com/practices/division-of-a-data-frame-using-another-data-frame-300c1.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Division of a dataframe by a series,https://machinehack.com/practices/integer-division-of-the-data-frame-using-a-series-d8e53.html,Hard,"DataFrame,Pandas,Dictionary,Function,List"
+Division of a dataframe with another dataframe ,https://machinehack.com/practices/integer-division-of-a-data-frame-using-another-data-frame-9c214.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Integer to date,https://machinehack.com/practices/converting-an-integer-to-a-date-5fe61.html,Hard,"DataFrame,Pandas,Function"
+Merge dataframes based on given index ,https://machinehack.com/practices/merging-two-data-frames-based-on-index-03dd9.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+"Concatenate dataframes on horizontal axis
+",https://machinehack.com/practices/concatenating-two-data-frames-on-horizontal-axis-de932.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Exclude a column in dataframe,https://machinehack.com/practices/printing-a-data-frame-excluding-a-single-column-2641f.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Exclude multiple dataframe columns,https://machinehack.com/practices/printing-a-data-frame-excluding-a-multiple-column-114d4.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Quantile values for a binary group,https://machinehack.com/practices/computing-the-quantile-values-for-a-binary-group-in-a-data-frame-4d8cb.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Quantile values for multiple groups,https://machinehack.com/practices/computing-the-quantile-values-for-multiple-groups-in-a-data-frame-ae5f9.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Rolling median,https://machinehack.com/practices/computing-the-rolling-median-of-a-data-frame-27713.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Drop the first row of the dataframe,https://machinehack.com/practices/dropping-the-first-row-of-the-data-frame-using-tail-function-474ab.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Drop rows of a dataframe,https://machinehack.com/practices/dropping-rows-in-a-dataframe-3eca8.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Drop dataframe row using index,https://machinehack.com/practices/dropping-the-last-row-of-the-data-frame-using-index-location-function-f3ebd.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Drop rows that contain string,https://machinehack.com/practices/dropping-rows-using-a-partial-string-7a101.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Minimum value in a dataframe row,https://machinehack.com/practices/printing-the-minimum-value-in-a-data-frame-row-59ea7.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Maximum value in the dataframe row,https://machinehack.com/practices/printing-the-maximum-value-in-a-data-frame-row-8f463.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Minimum value in the dataframe column,https://machinehack.com/practices/printing-the-minimum-value-in-a-data-frame-column-f8e68.html,Hard,"DataFrame,Dictionary,Pandas,Function"
+Maximum value in the dataframe column,https://machinehack.com/practices/printing-the-maximum-value-in-a-data-frame-column-9ce84.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+"Correlation between dataframe columns 
+",https://machinehack.com/practices/computing-the-correlation-between-two-data-frame-columns-7fbb3.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Correlation between elements of a dataframe ,https://machinehack.com/practices/computing-element-wise-correlation-in-a-data-frame-b8d99.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Size of the dataframe,https://machinehack.com/practices/printing-the-size-of-the-data-frame-cc8af.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Rows and columns in a data frame ,https://machinehack.com/practices/computing-the-number-of-rows-and-columns-in-a-data-frame-faac9.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Dimensions of the data frame  ,https://machinehack.com/practices/computing-the-dimension-of-the-data-frame-3737b.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+List to a dataframe row,https://machinehack.com/practices/conversion-of-a-list-to-a-data-frame-row-510e2.html,Hard,"DataFrame,Function,List,Pandas"
+Add columns from one dataframe to another ,https://machinehack.com/practices/adding-columns-from-one-data-frame-to-another-e6c16.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Frequency count in a Series,https://machinehack.com/practices/counting-the-frequency-of-unique-values-in-a-pandas-series-3a48a.html,Hard,"DataFrame,Pandas,Array,Function"
+Frequency count in dataframe,https://machinehack.com/practices/counting-the-frequency-of-unique-values-in-a-pandas-data-frame-c6a28.html,Hard,"DataFrame,Dictionary,Pandas,Function"
+Sort the dataframe with missing values,https://machinehack.com/practices/sorting-the-values-in-a-data-frame-98e66.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Impute missing values with string ,https://machinehack.com/practices/filling-the-missing-values-in-a-data-frame-with-a-string-75f03.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Pop-up columns of a Dataframe ,https://machinehack.com/practices/dropping-columns-in-a-data-frame-28527.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Merge dataframes of different lengths,https://machinehack.com/practices/merging-two-data-frames-of-different-length-b120c.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+"Merge dataframes along the horizontal axis
+",https://machinehack.com/practices/computing-union-for-two-data-frames-along-the-horizontal-axis-5a99f.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Merge dataframes along the vertical axis,https://machinehack.com/practices/computing-union-for-two-data-frames-along-the-vertical-axis-57a55.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Rows with a specific string,https://machinehack.com/practices/printing-rows-with-specific-string-in-a-data-frame-67c62.html,Hard,"DataFrame,Pandas,Function,Dictionary"
+Sum of rows,https://machinehack.com/practices/computing-the-sum-of-rows-in-a-data-frame-efa01.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Sum of columns,https://machinehack.com/practices/computing-the-sum-of-columns-in-a-data-frame-71159.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Descriptive statistics of Pandas series,https://machinehack.com/practices/obtaining-descriptive-statistics-for-a-pandas-series-8c235.html,Hard,"DataFrame,Pandas,Array,Function"
+Descriptive statistics of pandas DataFrame,https://machinehack.com/practices/obtaining-descriptive-statistics-for-a-pandas-data-frame-4eb65.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Cumulative percentage,https://machinehack.com/practices/calculating-the-cumulative-percentage-of-a-column-94ea6.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Date of a leap year,https://machinehack.com/practices/checking-if-the-year-is-a-leap-year-or-not-a-leap-year-07a56.html,Hard,"DataFrame,Pandas,String,Function"
+Find the day of the week from a given date,https://machinehack.com/practices/printing-the-day-of-the-week-from-a-string-a9ae6.html,Hard,"DataFrame,Pandas,String,Function"
+Find the day of the year using a date ,https://machinehack.com/practices/printing-the-day-of-the-year-from-a-date-string-64d6b.html,Hard,"DataFrame,Pandas,String,Function"
+List of strings to numeric array,https://machinehack.com/practices/converting-a-numpy-array-to-a-numeric-type-1d1ff.html,Hard,"Pandas,NumPy,List,Function"
+Convert a Pandas series into a numeric type ,https://machinehack.com/practices/converting-a-pandas-series-into-a-numeric-type-eb1e6.html,Hard,"Pandas,Array,Function"
+ Convert a series to numeric type without removing non-numeric values,https://machinehack.com/practices/converting-a-series-to-numeric-type-without-removing-non-numeric-values-284c1.html,Hard,"DataFrame,Pandas,List,Function"
+ Replace non-numeric values with NaN,https://machinehack.com/practices/replacing-non-numeric-values-with-nan-908f5.html,Hard,"DataFrame,Pandas,List,Function"
+Covariance between columns of a dataframe,https://machinehack.com/practices/computing-covariance-between-columns-of-the-data-frame-862fd.html,Hard,"DataFrame,Dictionary,Pandas,Function"
+"Division of each data frame element with a number
+",https://machinehack.com/practices/performing-division-of-each-data-frame-element-with-n-80658.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Cumulative minimum of an axis in a data frame,https://machinehack.com/practices/computing-the-cumulative-minimum-over-any-axis-in-a-data-frame-d354a.html,Hard,"DataFrame,Pandas,Dictionary,Function"
+Intercept of a linear regression model ,https://machinehack.com/practices/intercept-of-a-linear-regression-model-da925.html,Hard,"Machine Learning,Linear Regression"
+Coefficient of a linear regression model,https://machinehack.com/practices/coefficient-of-a-linear-regression-model-eb4e4.html,Hard,"Machine Learning,Linear Regression"
+ Prediction using a linear model,https://machinehack.com/practices/prediction-using-a-linear-model-fc54e.html,Hard,"Machine Learning,Linear Regression"
+Coefficient of determination,https://machinehack.com/practices/coefficient-of-determination-c7a0b.html,Hard,"Machine Learning,Linear Regression"
+Mean squared error loss,https://machinehack.com/practices/mean-squared-error-loss-118ee.html,Hard,"Machine Learning,Linear Regression"
+Intercept of a Logistic Regression model,https://machinehack.com/practices/intercept-of-a-logistic-regression-model-1b417.html,Hard,"Machine Learning,Classification,Logistic Regression"
+Accuracy of a classification model,https://machinehack.com/practices/accuracy-of-a-classification-model-9d5d0.html,Hard,"Machine Learning,Classification,Logistic Regression"
+Probability estimates,https://machinehack.com/practices/probability-estimates-56dc3.html,Hard,"Machine Learning,Classification,Logistic Regression"
+Logarithmic values of probability estimates,https://machinehack.com/practices/logarithmic-values-of-probability-estimates-7080e.html,Hard,"Logistic Regression,Classification,Machine Learning"
+Intercept of SVM Classifier,https://machinehack.com/practices/intercept-of-svm-classifier-7b438.html,Hard,"Machine Learning,Classification,SVM"
+Indices of SVM Classifier,https://machinehack.com/practices/indices-of-svm-classifier-21b59.html,Hard,"Machine Learning,Classification,SVM"
+"Support vectors of SVM Classifier
+",https://machinehack.com/practices/support-vectors-of-svm-classifier-4b18f.html,Hard,"Machine Learning,Classification,SVM"
+Probability estimates of SVM classifier,https://machinehack.com/practices/probability-estimates-of-svm-classifier-d58ce.html,Hard,"Machine Learning,Classification,SVM"
+Divisible by 5 or not,https://machinehack.com/practices/divisible-by-5-or-not-4854b.html,Hard,"DataFrame,Function,If-Else"
+Intercept of Ridge Classifier,https://machinehack.com/practices/intercept-of-ridge-classifier-1cfaf.html,Hard,"Machine Learning,Classification"
+Logarithmic Probability estimates,https://machinehack.com/practices/logarithmic-probability-estimates-a237b.html,Hard,"Machine Learning,Classification"
+Coefficients of the Logistic Regression model,https://machinehack.com/practices/coefficients-of-the-logistic-regression-model-6ea2e.html,Hard,"Machine Learning,Classification,Logistic Regression"
+Remainder with 7,https://machinehack.com/practices/remainder-with-7-63833.html,Hard,"String,DataFrame,Function"
+Precision score of a classifier ,https://machinehack.com/practices/precision-score-of-a-classifier-1cd09.html,Hard,"Logistic Regression,Function,Machine Learning,Classification"
+ROC-AUC Score,https://machinehack.com/practices/roc-auc-score-7d71e.html,Hard,"Classification,Machine Learning,Logistic Regression,Function"
+Macro F1-score of a classifier,https://machinehack.com/practices/macro-f1-score-of-a-classifier-542e5.html,Hard,"Machine Learning,Classification,Logistic Regression"
+Weighted Recall score of a classifier,https://machinehack.com/practices/weighted-recall-score-of-a-classifier-0d668.html,Hard,"Classification,Logistic Regression,Machine Learning"
+"Confusion matrix
+",https://machinehack.com/practices/confusion-matrix-98c2a.html,Hard,"Logistic Regression,Classification,Machine Learning"
+Hamming Loss ,https://machinehack.com/practices/hamming-loss-9e508.html,Hard,"Machine Learning,Logistic Regression,Classification"
+Hinge loss  ,https://machinehack.com/practices/hinge-loss-cbc6b.html,Hard,"Machine Learning,Classification,Function,Logistic Regression"
+Jaccard score ,https://machinehack.com/practices/jaccard-score-c0792.html,Hard,"Machine Learning,Classification,Logistic Regression,Function"
+Weighted FBeta score,https://machinehack.com/practices/weighted-fbeta-score-42275.html,Hard,"Machine Learning,Classification,Function,Logistic Regression"
+Accuracy score ,https://machinehack.com/practices/accuracy-score-fd2dc.html,Hard,"Machine Learning,Logistic Regression,Classification,Function"
+Classification report ,https://machinehack.com/practices/classification-report-8cab9.html,Hard,"Logistic Regression,Machine Learning,Classification,Function"
+L1 regularization in logistic regression ,https://machinehack.com/practices/l1-logistic-regression-bac57.html,Hard,"Logistic Regression,Function,Classification,Machine Learning"
+Class weights of a classifier,https://machinehack.com/practices/class-weights-c3630.html,Hard,"Machine Learning,Classification,Logistic Regression,Function"
+L2 regularization in logistic regression ,https://machinehack.com/practices/l2-logistic-regression-da472.html,Hard,"Machine Learning,Logistic Regression,Function,Classification"
+Cross-Entropy loss ,https://machinehack.com/practices/cross-entropy-loss-84ebb.html,Hard,"Logistic Regression,Machine Learning,Function,Classification"
+Multinomial logistic regression,https://machinehack.com/practices/multinomial-logistic-regression-6b6b9.html,Hard,"Machine Learning,Classification,Logistic Regression"
+R-squared,https://machinehack.com/practices/r-squared-6cdfc.html,Hard,"Machine Learning,Linear Regression,Function,Data Structures"
+Root-Mean-Square-Deviation (RMSE),https://machinehack.com/practices/root-mean-square-deviation-rmse-d74b6.html,Hard,"Machine Learning,Linear Regression,Function"
+Mean absolute error (MAE),https://machinehack.com/practices/mean-absolute-error-mae-49928.html,Hard,"Linear Regression,Machine Learning,Function"
+Mean absolute percentage error (MAPE),https://machinehack.com/practices/mean-absolute-percentage-error-mape-9420c.html,Hard,"Machine Learning,Linear Regression,Function"
+Salary prediction,https://machinehack.com/practices/salary-prediction-2b3d6.html,Hard,"Linear Regression,Machine Learning,Function"
+Weight prediction using Bayesian regression ,https://machinehack.com/practices/weight-prediction-using-bayesian-regression-7b16d.html,Hard,"Regression,Machine Learning,Function"
+Stock price prediction using ridge regression,https://machinehack.com/practices/stock-price-prediction-using-ridge-regression-505cd.html,Hard,"Regression,Machine Learning,Function"
+Intercept of a Bayesian regression model,https://machinehack.com/practices/intercept-of-a-bayesian-regression-model-d44e9.html,Hard,"Regression,Machine Learning,Function"
+Coefficient of a ridge regression model,https://machinehack.com/practices/coefficient-of-a-ridge-regression-model-270df.html,Hard,"Regression,Machine Learning,Function"
+Lasso regression,https://machinehack.com/practices/lasso-regression-8cc50.html,Hard,"Regression,Machine Learning,Function"
+Trace a matrix,https://machinehack.com/practices/trace-a-matrix-a8343.html,Hard,"Matrix,NumPy,Function"
+Choose a better regression model,https://machinehack.com/practices/choose-a-better-regression-model-c51fc.html,Hard,"Regression,Linear Regression,Function"
+Best model based on MAE,https://machinehack.com/practices/best-model-based-on-mae-7f6e8.html,Hard,"Regression,Machine Learning,Function"
+Best model based on RMSE,https://machinehack.com/practices/best-model-based-on-rmse-6e152.html,Hard,"Regression,Machine Learning"
+Pseudo Inverse of a matrix,https://machinehack.com/practices/pseudo-inverse-of-a-matrix-867ee.html,Hard,"Matrix,Function,NumPy,Array"
+Flatten a matrix,https://machinehack.com/practices/flatten-a-matrix-bd833.html,Hard,"Matrix,Array,NumPy"
+MinMax Scaler,https://machinehack.com/practices/minmax-scaler-e0ca6.html,Hard,"Sklearn,Machine Learning,Function"
+Standard scaler,https://machinehack.com/practices/standard-scaler-2891e.html,Hard,"Sklearn,Machine Learning,Function"
+Robust scaler ,https://machinehack.com/practices/robust-scaler-8fbb0.html,Hard,"Sklearn,Function,Machine Learning"
+Maximum Absolute Scaler ,https://machinehack.com/practices/maximum-absolute-scaler-69bf1.html,Hard,"Sklearn,Machine Learning,Function"
+Flower species prediction ,https://machinehack.com/practices/flower-species-prediction-91406.html,Hard,"Machine Learning,Classification,Logistic Regression,Sklearn"
+Confidence score ,https://machinehack.com/practices/confidence-score-73c99.html,Hard,"Sklearn,Logistic Regression,Machine Learning,Classification,Function"
+Probability estimates with naive-bayes classifier,https://machinehack.com/practices/probability-estimates-with-naive-bayes-classifier-e0d2b.html,Hard,"Logistic Regression,Machine Learning,Sklearn"
+Mean accuracy ,https://machinehack.com/practices/mean-accuracy-fd9de.html,Hard,"Machine Learning,Sklearn,Classification,Function"
+ Log-Probability estimates with naive-bayes classifier,https://machinehack.com/practices/log-probability-estimates-with-naive-bayes-classifier-727a8.html,Hard,"Machine Learning,Classification,Sklearn,Function,Naive Bayes"
+Multinomial Naive Bayes,https://machinehack.com/practices/multinomial-naive-bayes-de3a9.html,Hard,"Naive Bayes,Machine Learning,Classification"
+Complement Naive Bayes classifier ,https://machinehack.com/practices/complement-naive-bayes-classifier-7f1c0.html,Hard,"Naive Bayes,Classification,Machine Learning"
+Accuracy score for Multinomial Naive Bayes ,https://machinehack.com/practices/accuracy-score-for-multinomial-naive-bayes-b7767.html,Hard,"Naive Bayes,Classification,Machine Learning,Array"
+Bernoulli Naive Bayes classifier ,https://machinehack.com/practices/bernoulli-naive-bayes-classifier-51332.html,Hard,"Naive Bayes,Classification,Machine Learning"
+Breast cancer prediction,https://machinehack.com/practices/breast-cancer-prediction-51707.html,Hard,"Naive Bayes,Classification,Machine Learning"
+Integer to string,https://machinehack.com/practices/integer-to-string-120e9.html,Hard,"String,Function,Loops,Classification"
+Total number of camel cases,https://machinehack.com/practices/find-the-total-number-of-camelcase-66e4e.html,Hard,"String,Pattern Recognition,If-Else,Loops,Function"
+Capacity of cargo aircraft ,https://machinehack.com/practices/capacity-of-cargo-aircraft-a54da.html,Hard,"Binary Search,Math,Array"
+"Comparing the trail of zeros
+",https://machinehack.com/practices/comparing-the-trail-of-zeros-ad27a.html,Hard,"Math,Array,Function,If-Else"
+Probability of Arithmetic Progression,https://machinehack.com/practices/probability-of-arithmetic-progression-300b6.html,Hard,"Math,Array"
+Form squares from a rectangle,https://machinehack.com/practices/form-squares-from-a-rectangle-72e29.html,Hard,Math
+Possible combination for factorial,https://machinehack.com/practices/possible-combination-for-factorial-a0811.html,Hard,Math
+Design a maze,https://machinehack.com/practices/design-a-maze-38fab.html,Hard,Math
+Possible combination of gray code,https://machinehack.com/practices/possible-combination-of-gray-code-bb511.html,Hard,Math
+Convert Gray to Binary,https://machinehack.com/practices/convert-gray-to-binary-6fc90.html,Hard,Math
+Co-ordinates which makes a straight line,https://machinehack.com/practices/co-ordinates-which-makes-a-straight-line-f464c.html,Hard,Math
+Count composite elements,https://machinehack.com/practices/count-composite-elements-26bb5.html,Hard,Math
+Rotation Matrix,https://machinehack.com/practices/rotation-matrix-60187.html,Hard,Math
+Possible stops while trekking,https://machinehack.com/practices/possible-stops-while-trekking-6cf8d.html,Hard,"Math,Dynamic Programming"
+Area of an irregular polygon,https://machinehack.com/practices/area-of-an-irregular-polygon-351b5.html,Hard,"Dynamic Programming,Math"
+Return the ith factor,https://machinehack.com/practices/return-the-ith-factor-065ad.html,Hard,Math
+Probability of a perfect square,https://machinehack.com/practices/probability-of-a-perfect-square-57891.html,Hard,Math
+Check the product divisibility,https://machinehack.com/practices/check-the-product-divisibility-a264b.html,Hard,Math
+Percentage of non-repeating terms,https://machinehack.com/practices/percentage-of-non-repeating-terms-106aa.html,Hard,Math
+Solve the polynomial equation,https://machinehack.com/practices/solve-the-polynomial-equation-86c82.html,Hard,"Math,Dynamic Programming"
+Parameter optimisation,https://machinehack.com/practices/parameter-optimisation-38121.html,Hard,Math
+Divisible subarray,https://machinehack.com/practices/divisible-subarray-ee72d.html,Hard,Math
+An exponential calculation without in-built function,https://machinehack.com/practices/an-exponential-calculation-without-in-built-function-d006f.html,Hard,Math
+Guess the slot,https://machinehack.com/practices/guess-the-slot-13000.html,Hard,Math
+Shuffle and add,https://machinehack.com/practices/shuffle-and-add-826e1.html,Hard,Math
+Changes required,https://machinehack.com/practices/changes-required-ef0b9.html,Hard,Math
+Lazy person - 2,https://machinehack.com/practices/lazy-person-2-0c935.html,Hard,Math
+Reinforcement Learner,https://machinehack.com/practices/reinforcement-learner-5f2ab.html,Hard,Math
+Categorise a polygon,https://machinehack.com/practices/categorise-a-polygon-fbdec.html,Hard,Math
+Count of different bits,https://machinehack.com/practices/calculate-the-count-of-different-bits-f3a35.html,Hard,Math
+Constraint rectangle,https://machinehack.com/practices/constraint-rectangle-ace59.html,Hard,Math
+Subarray sum divisible,https://machinehack.com/practices/subarray-sum-divisible-abcbb.html,Hard,Math
+Operations on complex numbers,https://machinehack.com/practices/operations-on-complex-numbers-e9d31.html,Hard,Math
+Convert time format,https://machinehack.com/practices/convert-time-format-2a60e.html,Hard,Math
+Return the date-time difference,https://machinehack.com/practices/return-the-date-time-difference-26667.html,Hard,Math
+Get Drunk,https://machinehack.com/practices/get-drunk-2d518.html,Hard,Math
+Reversed ASCII,https://machinehack.com/practices/reversed-ascii-a7ac2.html,Hard,Math
+Intelligent Dog,https://machinehack.com/practices/intelligent-dog-e8dd9.html,Hard,Math
+Blast impact,https://machinehack.com/practices/blast-impact-75f02.html,Hard,Math
+Guess the shape,https://machinehack.com/practices/guess-the-shape-17b1b.html,Hard,Math
+Maximum difference between factors,https://machinehack.com/practices/maximum-difference-between-factors-739fc.html,Hard,Math
+Non-renewable waste,https://machinehack.com/practices/non-renewable-waste-e8a51.html,Hard,Math
+Probability of unique shuffles,https://machinehack.com/practices/probability-of-unique-shuffles-5fd1b.html,Hard,Math
+Subarrays with highest lcm,https://machinehack.com/practices/subarrays-with-highest-lcm-aaeb0.html,Hard,Math
+Remove digits,https://machinehack.com/practices/remove-digits-31c80.html,Hard,Math
+Distinct difference,https://machinehack.com/practices/distinct-difference-f6319.html,Hard,Math
+Return the ith largest in a division table,https://machinehack.com/practices/return-the-ith-largest-in-a-division-table-5f38d.html,Hard,Math
+Minimum swaps required,https://machinehack.com/practices/minimum-swaps-required-83632.html,Hard,Math
+Check Eligibility,https://machinehack.com/practices/check-eligibility-8c1f7.html,Hard,Math
+Mystery of 999,https://machinehack.com/practices/mystery-of-999-d2e5c.html,Hard,"Math,Array,Function,Loops,If-Else"
+Check the GCD,https://machinehack.com/practices/check-the-gcd-50ca3.html,Hard,"Math,Array"
+Treasure hunt,https://machinehack.com/practices/treasure-hunt-2b3e0.html,Hard,"Math,Array,Function,If-Else,Loops"
+Yank Me,https://machinehack.com/practices/yank-me-97443.html,Hard,"Math,Function,Loops,Dynamic Programming"
+Let’s make some Flat bread,https://machinehack.com/practices/lets-make-some-flat-bread-2d418.html,Hard,Math
+Sub Divisor,https://machinehack.com/practices/sub-divisor-f57da.html,Hard,"Math,Function,If-Else,Loops"
+Shadow angle,https://machinehack.com/practices/shadow-angle-a2d93.html,Hard,"Math,Function,Loops,If-Else"
+Possible combination of candies,https://machinehack.com/practices/possible-combination-of-candies-4f418.html,Hard,"Math,Function,Loops"
+Append and return sum,https://machinehack.com/practices/append-and-return-sum-b7a6b.html,Hard,"Math,Function,Array"
+Prevent the lights from collision,https://machinehack.com/practices/prevent-the-lights-from-collision-79ddb.html,Hard,"Math,Function,Loops"
+Conditional swap and max sum,https://machinehack.com/practices/conditional-swap-and-max-sum-7bbfe.html,Hard,"Math,Binary Tree"
+Conditional Fractions,https://machinehack.com/practices/conditional-fractions-26bdc.html,Hard,"Math,Loops,If-Else"
+Apply bitwise operations to hexadecimal,https://machinehack.com/practices/apply-bitwise-operations-to-hexadecimal-8e1cd.html,Hard,Math
+Prevent the beam leakage,https://machinehack.com/practices/prevent-the-beam-leakage-a3332.html,Hard,"Math,Loops"
+Install the drinking water fountains,https://machinehack.com/practices/install-the-drinking-water-fountains-090dd.html,Hard,"Math,Dynamic Programming"
+The ith largest factor,https://machinehack.com/practices/the-ith-largest-factor-aa3f0.html,Hard,Math
+Game of odds and evens,https://machinehack.com/practices/game-of-odds-and-evens-5dd87.html,Hard,Math
+Probability of odd sums,https://machinehack.com/practices/probability-of-odd-sums-c4639.html,Hard,Math
+Number of zeros in hexadecimal,https://machinehack.com/practices/number-of-zeros-in-hexadecimal-609f9.html,Hard,Math
+Split the binary,https://machinehack.com/practices/split-the-binary-7d8ea.html,Hard,Math
+Largest sum triplets,https://machinehack.com/practices/largest-sum-triplets-4b422.html,Hard,"Game Theory,Math"
+Sum of even subarray,https://machinehack.com/practices/sum-of-even-subarray-573ba.html,Hard,Math
+"Divorce number
+",https://machinehack.com/practices/divorce-number-407b1.html,Hard,"Math,Function,Loops"
+Abundant Number,https://machinehack.com/practices/abundant-number-b822d.html,Hard,Math
+Amicable Strings ,https://machinehack.com/practices/amicable-strings-56183.html,Hard,"Math,String,Function"
+Almost perfect number,https://machinehack.com/practices/almost-perfect-number-7cdfa.html,Hard,"Math,Function,Loops"
+Collinear line segment,https://machinehack.com/practices/collinear-line-segment-3fbd7.html,Hard,"Math,Dynamic Programming"
+Arithmetic operation on nth element,https://machinehack.com/practices/api-call-ae898.html,Hard,"Math,Dynamic Programming"
+"Sniping Competition
+",https://machinehack.com/practices/snipping-competition-3256d.html,Hard,"Math,Function,Loops"
+Maximum Profit,https://machinehack.com/practices/maximum-profit-1c1a4.html,Hard,"Math,Function,Loops"
+Absolute difference without using any package,https://machinehack.com/practices/absolute-difference-without-using-any-package-12569.html,Hard,"Math,Function,Loops"
+Sequence into binary and hexadecimal,https://machinehack.com/practices/algorithm-to-write-binary-c00d0.html,Hard,"Math,Function,Loops"
+Zip it up,https://machinehack.com/practices/zip-it-up-b38cb.html,Hard,"Math,Function,Loops"
+Collect the money,https://machinehack.com/practices/collect-the-money-e0080.html,Hard,"Math,Loops,Function"
+"Conditional integer
+",https://machinehack.com/practices/conditional-integer-f349e.html,Hard,"Math,Function,Loops"
+"Collision time
+",https://machinehack.com/practices/collision-time-22bf3.html,Hard,Math
+The buddies,https://machinehack.com/practices/the-buddies-6055f.html,Hard,Math
+Try not to be a Zombie,https://machinehack.com/practices/try-not-to-be-a-zombie-99baa.html,Hard,Math
+Save your buddy,https://machinehack.com/practices/save-your-buddy-131fd.html,Hard,Math
+Sum of quadrilaterals,https://machinehack.com/practices/sum-of-quadrilaterals-f9fdf.html,Hard,Math
+Conditional integer II,https://machinehack.com/practices/conditional-integer-ii-9d129.html,Hard,"Math,Function,Loops"
+Complete the set and win the prize,https://machinehack.com/practices/complete-the-set-and-win-the-prize-5a0a8.html,Hard,Math
+Drink water  ,https://machinehack.com/practices/drink-water-52e00.html,Hard,Math
+Let’s buy a unique car,https://machinehack.com/practices/lets-buy-a-unique-car-d49a2.html,Hard,Math
+Jackpot,https://machinehack.com/practices/jackpot-b295e.html,Hard,"Math,Function,Loops"
+Buddy player,https://machinehack.com/practices/buddy-player-e0e3e.html,Hard,Math
+Better luck next time,https://machinehack.com/practices/better-luck-next-time-c0064.html,Hard,Math
+Best locality for opening an Bank Branch,https://machinehack.com/practices/best-locality-for-opening-an-bank-branch-09c93.html,Hard,Math
+Outlier Detection,https://machinehack.com/practices/outlier-detection-2689c.html,Hard,"Statistics,NumPy,Pandas"
+Evaluate classification model performance,https://machinehack.com/practices/evaluate-classification-model-performance-910c7.html,Hard,"Pandas,Machine Learning,DataFrame"
+Unit Evaluation of Classifier,https://machinehack.com/practices/unit-evaluation-of-classifier-b9e36.html,Hard,"Machine Learning,Pandas,DataFrame"
+Quartile for a robotic arm,https://machinehack.com/practices/quartile-for-a-robotic-arm-19c64.html,Hard,"Machine Learning,Pandas,NumPy"
+Descriptive Analysis of Radiation,https://machinehack.com/practices/descriptive-analysis-of-radiation-3d2fb.html,Hard,"Statistics,Machine Learning"
+Accuracy of a Random Forest Classifier,https://machinehack.com/practices/accuracy-of-a-random-forest-classifier-1233f.html,Hard,Classification
+ROC-AUC Score,https://machinehack.com/practices/roc-auc-score-44a5b.html,Hard,Classification
+Update the last column of a matrix,https://machinehack.com/practices/update-the-last-column-of-a-matrix-ce1c1.html,Hard,"Math,Matrix"
+Minima of a function using Gradient Descent,https://machinehack.com/practices/minima-of-a-function-using-gradient-descent-ea06d.html,Hard,"Machine Learning,Math,Function"
+Breast Classification Algorithm,https://machinehack.com/practices/best-classification-algorithm-6f5ca.html,Hard,"Classification,Machine Learning"
+Custom Ensemble Learning Model,https://machinehack.com/practices/custom-ensemble-learning-model-c2fa6.html,Hard,"Classification,Machine Learning"
+New Column of a Matrix,https://machinehack.com/practices/new-column-of-a-matrix-e5fa0.html,Hard,"Math,Matrix"
+Eigenvalues of a matrix,https://machinehack.com/practices/eigenvalues-of-a-matrix-1c4e3.html,Hard,"Machine Learning,Math,Matrix"
+Optimize a loss function with Adam optimization,https://machinehack.com/practices/optimize-a-loss-function-with-adam-optimization-4753f.html,Hard,Machine Learning
